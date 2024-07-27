@@ -6,6 +6,8 @@ These scripts help to get the operating system setup on DMC development machines
 (This repo is public as we don't really want to sign in to grab this script while booted into archiso)
 
 
+[Grab Latest ISO](https://geo.mirror.pkgbuild.com/iso/2024.07.01/archlinux-x86_64.iso)
+
 ## Pre Install: (BIOS / UEFI)
 ```bash
 wget -qO- https://bit.ly/dmcarchpreinst | sudo bash
