@@ -5,8 +5,7 @@ These scripts help to get the operating system setup on DMC development machines
 (This repo is public as we don't really want to sign in to grab this script while booted into archiso)
 
 
-Scripts:
-
+Pre Install: (BIOS / UEFI)
 ```bash
 wget -qO- https://bit.ly/dmcarchpreinst | sudo bash
 ```
@@ -14,8 +13,7 @@ wget -qO- https://bit.ly/dmcarchpreinst | sudo bash
 wget -qO- https://bit.ly/dmcarchpreinstbios | sudo bash
 ```
 
-
-
+After Install:
 ```bash
 wget qO- https://bit.ly/dmcarchpostinst | sudo bash
 ```
