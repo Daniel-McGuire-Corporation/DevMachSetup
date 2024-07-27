@@ -1,4 +1,4 @@
-<sub>These are for internal use, they have not been fully tested.</sub>
+<sub>These are for internal use, they have not been fully tested. (Note: They seem stable enough, but make sure to look thru the script before you run it <3)</sub>
 # *DMC Development Machine Setup Scripts*
 
 These scripts help to get the operating system setup on DMC development machines.
