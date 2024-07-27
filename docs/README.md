@@ -14,6 +14,8 @@ wget -qO- https://bit.ly/dmcarchpreinst | sudo bash
 wget -qO- https://bit.ly/dmcarchpreinstbios | sudo bash
 ```
 
+
+
 ```bash
 wget qO- https://bit.ly/dmcarchpostinst | sudo bash
 ```
