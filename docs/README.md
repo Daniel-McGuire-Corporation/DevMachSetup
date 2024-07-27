@@ -1,11 +1,11 @@
-DMC Development Machine Setup Scripts*
+# *DMC Development Machine Setup Scripts*
 
 These scripts help to get the operating system setup on DMC development machines.
 
 (This repo is public as we don't really want to sign in to grab this script while booted into archiso)
 
 
-Pre Install: (BIOS / UEFI)
+## Pre Install: (BIOS / UEFI)
 ```bash
 wget -qO- https://bit.ly/dmcarchpreinst | sudo bash
 ```
@@ -13,7 +13,7 @@ wget -qO- https://bit.ly/dmcarchpreinst | sudo bash
 wget -qO- https://bit.ly/dmcarchpreinstbios | sudo bash
 ```
 
-After Install:
+## After Install:
 ```bash
 wget qO- https://bit.ly/dmcarchpostinst | sudo bash
 ```
