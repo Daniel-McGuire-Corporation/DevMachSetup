@@ -1,3 +1,4 @@
+<sub>These are for internal use, they have not been fully tested.</sub>
 # *DMC Development Machine Setup Scripts*
 
 These scripts help to get the operating system setup on DMC development machines.
@@ -17,3 +18,6 @@ wget -qO- https://bit.ly/dmcarchpreinstbios | sudo bash
 ```bash
 wget qO- https://bit.ly/dmcarchpostinst | sudo bash
 ```
+
+
+### Written for 7.01.24 ArchISO
