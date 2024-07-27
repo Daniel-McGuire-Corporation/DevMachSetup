@@ -1,0 +1,16 @@
+DMC Development Machine Setup Scripts*
+
+These scripts help to get the operating system setup on DMC development machines.
+
+(This repo is public as we don't really want to sign in to grab this script while booted into archiso)
+
+
+Scripts:
+
+```bash
+wget https://bit.ly/dmcarch/preinst/preinst.sh
+```
+
+```bash
+wget https://bit.ly/dmcarch/postinst/postinst.sh
+```
