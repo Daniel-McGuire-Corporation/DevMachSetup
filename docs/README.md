@@ -8,9 +8,9 @@ These scripts help to get the operating system setup on DMC development machines
 Scripts:
 
 ```bash
-wget https://bit.ly/dmcarchpreinst
+wget -qO- https://bit.ly/dmcarchpreinst | sudo bash
 ```
 
 ```bash
-wget https://bit.ly/dmcarchpostinst
+wget qO- https://bit.ly/dmcarchpostinst | sudo bash
 ```
